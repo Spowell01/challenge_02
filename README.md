@@ -5,10 +5,10 @@
 I created a portfolio page for future employers to veiw my work. I used my knowlwdge of html and css to build it
 
 ## Installation
-
-N/A
+here is a link to the deplyed site!
 
 ## Usage
+this is a screenshot of the page.
 ![Screenshot of webpage.](images/screen-shot-02.png)
 
 ## Credits
