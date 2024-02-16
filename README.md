@@ -9,7 +9,7 @@ I created a portfolio page for future employers to veiw my work. I used my knowl
 N/A
 
 ## Usage
-![Screenshot of webpage.](images>screen-shot-02.png)
+![Screenshot of webpage.](\images\screen-shot-02.png)
 
 ## Credits
 I used https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox to help structure some of the boxes in my webpage.
